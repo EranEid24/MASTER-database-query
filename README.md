@@ -1,6 +1,6 @@
 # MASTER-database-query
 
-WELCOME! :) 
+WELCOME! 
 
 This is my very first project, my main goal was playing with the data as i see it without any external intention.
 
