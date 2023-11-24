@@ -128,7 +128,7 @@ Queries were made with SQL Server and visualization was made with Google Sheets.
 
 `GROUP BY cr.categoryname`
 
-<img width="390" alt="image" src="https://github.com/EranEid24/MASTER-database-query/assets/149265837/19b67f47-7e55-4741-8c84-36eb55de9b11">
+<img width="352" alt="image" src="https://github.com/EranEid24/MASTER-database-query/assets/149265837/0639458b-3a95-4df8-91d5-83f3ece00586">
 
 # 3) company wants to stop cooperation with the 3 least profitable suppliers, 
 # and accelerate cooperation with the top 3 profitable suppliers: 
@@ -197,7 +197,8 @@ Queries were made with SQL Server and visualization was made with Google Sheets.
 
 `GROUP BY s.Country, s.CompanyName`
 
-<img width="391" alt="image" src="https://github.com/EranEid24/MASTER-database-query/assets/149265837/b820dab0-d392-467a-b6bd-87cc33379e45">
+<img width="391" alt="image" src="https://github.com/EranEid24/MASTER-database-query/assets/149265837/b820dab0-d392-467a-b6bd-87cc33379e45"> <img width="422" alt="image" src="https://github.com/EranEid24/MASTER-database-query/assets/149265837/16a1cd3a-4c06-426d-ad7f-5b3cddccd14e">
+
 
 ### --TOP 6 suppliers constitutes about half of the total revenue.
 ### --France is 21.9%, Germany is 14.5%, Australia is 13.6%
