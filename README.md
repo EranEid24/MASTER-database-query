@@ -256,7 +256,7 @@ Queries were made with SQL Server and visualization was made with Google Sheets.
 <img width="398" alt="image" src="https://github.com/EranEid24/MASTER-database-query/assets/149265837/130f12ac-d292-4c7d-b685-95ef7c90cea8">
 
 
-#  sells through time, from the oldest to newest 
+#  sales through time, from the oldest to newest 
 
 `SELECT orderdate, SUM (order_value) AS order_value2`
 
